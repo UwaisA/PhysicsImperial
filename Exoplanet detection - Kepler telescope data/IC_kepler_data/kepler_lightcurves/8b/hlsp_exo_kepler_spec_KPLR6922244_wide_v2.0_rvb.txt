@@ -1,0 +1,39 @@
+#FILENAME= 'hlsp_exo_kepler_spec_KPLR6922244_wide_v2.0_rvb.txt'
+#TARGNAME= 'KPLR6922244'
+#RA_TARG =           281.28812 / [deg] target right ascension (J2000)
+#DEC_TARG=            42.45106 / [deg] target declination (J2000)
+#RMAGTARG=              13.511 / target r magnitude from KIC
+#G-R_TARG=               0.375 / target g-r magnitude from KIC
+#DATEMIN =      2454984.040029 / earliest observation date
+#DATEMAX =      2455135.789679 / latest observation date
+# 
+#NPTS    =                  24 / number of time samples
+#COLUMN_1= 'BJD'               / Barycentric Julian Date
+#COLUMN_2= 'Radial_Velocity'   / [m/s] target radial velocity
+#COLUMN_3= 'RV_Uncertainty'    / [m/s] uncertainty in target radial velocity
+#COLUMN_4= 'Telesco/Spectro'   / telescope and spectrograph used
+# 
+2454984.040029   -22.15   34.5   Keck-HIRES
+2454985.042856    52.45   34.5   Keck-HIRES
+2454986.065428   -42.39   34.0   Keck-HIRES
+2454987.060244   -74.37   33.6   Keck-HIRES
+2454988.026564    63.04   33.7   Keck-HIRES
+2454988.972744    98.87   33.8   Keck-HIRES
+2454995.103097    46.58   34.2   Keck-HIRES
+2455014.891326   -64.61   33.7   Keck-HIRES
+2455015.975326   -29.97   33.4   Keck-HIRES
+2455017.019858   -28.28   33.3   Keck-HIRES
+2455075.788330    41.65   33.9   Keck-HIRES
+2455109.849781  -122.00   32.8   Keck-HIRES
+2455110.790309   -67.42   31.9   Keck-HIRES
+2455133.717887    58.11   32.6   Keck-HIRES
+2455133.732343    51.13   32.5   Keck-HIRES
+2455133.747053    71.85   32.7   Keck-HIRES
+2455133.761161    34.51   32.8   Keck-HIRES
+2455133.775640    24.38   32.6   Keck-HIRES
+2455133.790026    -9.49   33.2   Keck-HIRES
+2455133.804527   -31.04   33.2   Keck-HIRES
+2455133.821205   -14.32   32.6   Keck-HIRES
+2455133.838751    49.58   32.8   Keck-HIRES
+2455134.739907   -23.48   31.9   Keck-HIRES
+2455135.789679    48.50   32.6   Keck-HIRES

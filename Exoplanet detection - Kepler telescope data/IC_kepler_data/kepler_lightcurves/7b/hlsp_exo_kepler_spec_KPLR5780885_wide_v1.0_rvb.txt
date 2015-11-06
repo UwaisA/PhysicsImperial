@@ -1,0 +1,26 @@
+#FILENAME= 'hlsp_exo_kepler_spec_KPLR5780885_wide_v1.0_rvb.txt'
+#TARGNAME= 'KPLR5780885'
+#RA_TARG =           288.58150 / [deg] target right ascension (J2000)
+#DEC_TARG=            41.08981 / [deg] target declination (J2000)
+#RMAGTARG=              12.815 / target r magnitude from KIC
+#G-R_TARG=               0.445 / target g-r magnitude from KIC
+#DATEMIN =      2455107.379372 / earliest observation date
+#DATEMAX =      2455116.370771 / latest observation date
+# 
+#NPTS    =                   9 / number of time samples
+#COLUMN_1= 'BJD'               / Barycentric Julian Date
+#COLUMN_2= 'Radial_Velocity'   / [m/s] target radial velocity
+#COLUMN_3= 'RV_Uncertainty'    / [m/s] uncertainty in target radial velocity
+#COLUMN_4= 'Bisector_Span'     / [m/s] target bisector span
+#COLUMN_5= 'BS_Uncertainty'    / [m/s] uncertainty in target bisector span
+#COLUMN_6= 'Telesco/Spectro'   / telescope and spectrograph used
+# 
+2455107.379372    43.70    6.80    19.9     7.3      NOT-FIES
+2455108.368450    32.70    7.10     1.5     5.4      NOT-FIES
+2455110.507350   -34.20    9.80     4.8    17.9      NOT-FIES
+2455111.402508   -11.50    6.70    -4.0     7.2      NOT-FIES
+2455112.413783    33.20    8.20    -4.6     5.4      NOT-FIES
+2455113.408241    27.90    6.10   -12.0     8.2      NOT-FIES
+2455114.446320   -31.10    8.10    -5.5     8.9      NOT-FIES
+2455115.444111   -29.20   10.70   -14.8     8.9      NOT-FIES
+2455116.370771    -0.10    9.40    13.8    10.6      NOT-FIES

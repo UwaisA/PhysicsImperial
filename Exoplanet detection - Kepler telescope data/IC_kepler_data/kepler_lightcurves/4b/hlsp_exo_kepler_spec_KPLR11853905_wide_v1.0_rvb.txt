@@ -1,0 +1,36 @@
+#FILENAME= 'hlsp_exo_kepler_spec_KPLR11853905_wide_v1.0_rvb.txt'
+#TARGNAME= 'KPLR11853905'
+#RA_TARG =           285.61533 / [deg] target right ascension (J2000)
+#DEC_TARG=            50.13575 / [deg] target declination (J2000)
+#RMAGTARG=              12.135 / target r magnitude from KIC
+#G-R_TARG=               0.479 / target g-r magnitude from KIC
+#DATEMIN =      2455041.990999 / earliest observation date
+#DATEMAX =      2455134.714618 / latest observation date
+# 
+#NPTS    =                  19 / number of time samples
+#COLUMN_1= 'BJD'               / Barycentric Julian Date
+#COLUMN_2= 'Radial_Velocity'   / [m/s] target radial velocity
+#COLUMN_3= 'RV_Uncertainty'    / [m/s] uncertainty in target radial velocity
+#COLUMN_4= 'Bisector_Span'     / [m/s] target bisector span
+#COLUMN_5= 'BS_Uncertainty'    / [m/s] uncertainty in target bisector span
+#COLUMN_6= 'Telesco/Spectro'   / telescope and spectrograph used
+# 
+2455041.990999     1.54    3.86    -8.8     2.7    Keck-HIRES
+2455042.818474    10.14    3.79   -34.5     7.9    Keck-HIRES
+2455042.826449     9.67    3.88   -46.2     6.0    Keck-HIRES
+2455043.921701    -5.89    3.79   -30.0     6.3    Keck-HIRES
+2455045.022184    -8.21    3.94    -6.5     6.3    Keck-HIRES
+2455048.886762     6.23    3.95    -3.7     5.9    Keck-HIRES
+2455073.807980    -9.66    2.95    -4.8     2.0    Keck-HIRES
+2455074.796690     6.30    2.70    10.0     3.0    Keck-HIRES
+2455076.962912    -5.12    2.83    12.9     1.8    Keck-HIRES
+2455078.903107    -7.59    2.70    16.5     3.2    Keck-HIRES
+2455079.948260    -2.26    2.82    15.3     3.5    Keck-HIRES
+2455080.770697     6.96    2.62    -0.6     2.1    Keck-HIRES
+2455081.790097     4.29    3.09     7.3     3.8    Keck-HIRES
+2455081.812747     3.01    2.60    14.9     2.8    Keck-HIRES
+2455082.965408   -12.55    2.79     8.2     2.7    Keck-HIRES
+2455106.794786     9.93    3.17     8.0     3.2    Keck-HIRES
+2455110.765944     1.56    2.84    -8.4     2.2    Keck-HIRES
+2455111.759862    -8.81    3.22   -10.7     2.6    Keck-HIRES
+2455134.714618    -0.01    2.86    -7.9     3.1    Keck-HIRES
